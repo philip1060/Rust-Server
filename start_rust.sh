@@ -130,7 +130,7 @@ MPSIZE="2000"
 elif [ "$MAPSIZE" = "medium" ]; then
 MPSIZE="3500"
 elif [ "$MAPSIZE" = "large" ]; then
-MPSIZE="6000"
+MPSIZE="4500"
 elif [ "$MAPSIZE" = "massive" ]; then
 MPSIZE="8000"
 else
