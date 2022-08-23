@@ -132,7 +132,7 @@ MPSIZE="3500"
 elif [ "$MAPSIZE" = "large" ]; then
 MPSIZE="4500"
 elif [ "$MAPSIZE" = "massive" ]; then
-MPSIZE="8000"
+MPSIZE="6000"
 else
 echo "Error: Please select map size"
 exit
